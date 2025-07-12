@@ -1,0 +1,16 @@
+spring:
+  datasource:
+    username: sword_and_sorcery_stories
+    password: sword_and_sorcery_stories
+    url: jdbc:mysql://localhost:3306/sword_and_sorcery_stories
+   
+  jpa:
+    hibernate: 
+      ddl-auto: none
+    show-sql: true
+  
+  defer-datasource-initialization: true
+      
+  sql:
+    init:
+      mode: never

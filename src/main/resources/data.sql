@@ -1,0 +1,16 @@
+INSERT INTO character_main (character_name) VALUES ('Conan the Cimmerian');
+INSERT INTO character_main (character_name) VALUES ('Thoth-Amon');
+INSERT INTO character_main (character_name) VALUES ('Taurus of Nemedia');
+INSERT INTO character_main (character_name) VALUES ('Yaga');
+INSERT INTO character_main (character_name) VALUES ('Yag-kosha');
+INSERT INTO character_main (character_name) VALUES ('Fafhrd');
+INSERT INTO character_main (character_name) VALUES ('The Grey Mouser');
+INSERT INTO character_main (character_name) VALUES ('Elric of Melniboné');
+INSERT INTO character_main (character_name) VALUES ('Jirel of Joiry');
+INSERT INTO character_main (character_name) VALUES ('Satampra Zeiros');
+INSERT INTO character_main (character_name) VALUES ('Elak of Atlantis');
+INSERT INTO character_main (character_name) VALUES ('Kane');
+INSERT INTO character_main (character_name) VALUES ('Hok');
+INSERT INTO character_main (character_name) VALUES ('Imaro');
+INSERT INTO character_main (character_name) VALUES ('Duar');
+INSERT INTO character_main (character_name) VALUES ('Liane the Wayfarer');

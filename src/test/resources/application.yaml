@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:h2:mem:sword_and_sorcery_stories;MODE=MYSQL
+   
+ 
